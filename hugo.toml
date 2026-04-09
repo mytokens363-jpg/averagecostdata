@@ -1,0 +1,25 @@
+baseURL = "https://averagecostdata.com/"
+languageCode = "en-us"
+title = "Average Cost Data"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  description = "Average cost data, price guides, and cost comparisons for informed decision making."
+  author = "Average Cost Data"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
