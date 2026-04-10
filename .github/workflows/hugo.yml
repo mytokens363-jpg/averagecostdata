@@ -18,10 +18,8 @@ jobs:
           extended: true
       - name: Clean Public
         run: rm -rf public
-      - name: Build
+      - name: Build with Hugo
         run: hugo --minify
-        env:
-          PATH: /opt/hostedtoolcache/hugo/0.136.0/x64:$PATH
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
