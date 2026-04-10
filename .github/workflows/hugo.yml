@@ -19,7 +19,7 @@ jobs:
       - name: Clean Public
         run: rm -rf public
       - name: Build
-        run: /usr/local/bin/hugo --minify
+        run: /opt/hostedtoolcache/hugo/0.136.0/x64/hugo --minify
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
