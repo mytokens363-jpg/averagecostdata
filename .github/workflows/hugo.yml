@@ -16,6 +16,8 @@ jobs:
         with:
           hugo-version: '0.136.0'
           extended: true
+      - name: Clean Public
+        run: rm -rf public
       - name: Build
         run: /usr/local/bin/hugo --minify
       - name: Deploy
