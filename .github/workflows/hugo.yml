@@ -21,9 +21,9 @@ jobs:
         with:
           hugo-version: '0.136.0'
           extended: true
-          args: --minify
+          args: --minify --destination _site
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./_site
