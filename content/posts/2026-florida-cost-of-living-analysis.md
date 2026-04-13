@@ -1,5 +1,5 @@
 ---
-title: "cbd1f15819f6c2e7"
+title: "2026 Florida Cost of Living: Housing, Taxes & Trends"
 date: 2026-04-11
 draft: false
 description: "Data-driven analysis of Florida’s 2026 cost of living: housing prices, insurance, taxes, and regional disparities."
@@ -7,8 +7,6 @@ slug: "2026-florida-cost-of-living-analysis"
 tags: ["Florida housing", "cost of living", "taxes", "real estate trends", "2026 forecast"]
 schema: "Article"
 ---
-
-# cbd1f15819f6c2e7
 
 ## The 2026 Economic Landscape: Navigating Florida's Cost of Living
 

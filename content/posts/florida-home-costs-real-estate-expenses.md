@@ -1,5 +1,5 @@
 ---
-title: "c43f6f4098626c92"
+title: "Florida Home Costs: Prices, Taxes, Insurance & Living Expenses"
 date: 2026-04-11
 draft: false
 description: "2024 guide to Florida home costs: median prices by metro, property taxes, insurance spikes, utilities & financing tips."

@@ -1,5 +1,5 @@
 ---
-title: "3ad24e0dcb7cb528"
+title: "Florida Home Costs: 2024 Real Estate Breakdown"
 date: 2026-04-11
 draft: false
 description: "Detailed analysis of Florida home prices, insurance, taxes, and living costs—with regional comparisons and actionable insights for buyers."
