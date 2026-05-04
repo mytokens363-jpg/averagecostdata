@@ -6,6 +6,7 @@ description: "Comprehensive breakdown of Florida home prices, insurance, taxes, 
 slug: "florida-home-costs-real-estate-guide-2024"
 tags: ["Florida real estate", "home buying costs", "Florida housing market"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # The Complete Guide to Florida Home Costs, Real Estate Trends, and Living Expenses

@@ -6,6 +6,7 @@ description: "Comprehensive breakdown of Florida home prices, property taxes, in
 slug: "florida-home-costs-living-expenses"
 tags: ["Florida real estate", "home prices", "property taxes", "living costs", "homeowners insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 Thinking Process:

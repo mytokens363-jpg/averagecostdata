@@ -6,6 +6,7 @@ description: "Detailed analysis of Florida home prices, insurance, taxes, and li
 slug: "florida-home-costs-real-estate-breakdown"
 tags: ["Florida real estate", "home prices Florida", "property taxes Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 Thinking Process:

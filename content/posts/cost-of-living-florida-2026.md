@@ -6,6 +6,7 @@ description: "Projected 2026 cost of living in Florida: housing, utilities, groc
 slug: "cost-of-living-florida-2026"
 tags: ["Florida cost of living", "housing costs", "retirement affordability"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 ## Overview of Cost of Living in Florida

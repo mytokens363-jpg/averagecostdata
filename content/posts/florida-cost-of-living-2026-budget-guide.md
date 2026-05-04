@@ -6,6 +6,7 @@ description: "A realistic 2026 budget breakdown for Florida—housing, insurance
 slug: "florida-cost-of-living-2026-budget-guide"
 tags: ["cost of living", "Florida housing", "Florida taxes", "2026 budget", "retirement cost"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Florida Cost of Living in 2026: A Realistic Budget Guide

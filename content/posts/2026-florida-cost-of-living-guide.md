@@ -6,6 +6,7 @@ description: "Projected cost of living in Florida for 2026—including housing, 
 slug: "2026-florida-cost-of-living-guide"
 tags: ["Florida cost of living", "real estate 2026", "Florida insurance crisis", "no state income tax", "migration trends"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 ## Navigating the Financial Landscape of the Sunshine State in 2026

@@ -6,6 +6,7 @@ description: "Detailed breakdown of Florida real estate costs, regional price tr
 slug: "florida-home-costs-real-estate-expenses-guide"
 tags: ["Florida real estate", "home costs Florida", "cost of living Florida", "property taxes Florida", "home insurance Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 Thinking Process:

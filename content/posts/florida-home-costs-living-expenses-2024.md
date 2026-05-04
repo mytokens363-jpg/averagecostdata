@@ -6,6 +6,7 @@ description: "Detailed breakdown of Florida home prices, ownership costs, insura
 slug: "florida-home-costs-living-expenses-2024"
 tags: ["Florida real estate", "home buying Florida", "cost of living Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 Thinking Process:

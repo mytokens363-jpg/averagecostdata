@@ -6,6 +6,7 @@ description: "Data-driven analysis of Florida’s 2026 cost of living: housing p
 slug: "2026-florida-cost-of-living-analysis"
 tags: ["Florida housing", "cost of living", "taxes", "real estate trends", "2026 forecast"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 ## The 2026 Economic Landscape: Navigating Florida's Cost of Living

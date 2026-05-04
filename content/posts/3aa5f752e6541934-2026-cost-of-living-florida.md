@@ -6,6 +6,7 @@ description: "Projected 2026 cost of living in Florida — housing, utilities, g
 slug: "3aa5f752e6541934-2026-cost-of-living-florida"
 tags: ["cost of living", "Florida 2026", "housing market", "budget tips", "regional comparisons"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 Thinking Process:

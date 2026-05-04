@@ -6,6 +6,7 @@ description: "2024 guide to Florida home costs: median prices by metro, property
 slug: "florida-home-costs-real-estate-expenses"
 tags: ["Florida real estate", "home prices", "property taxes Florida", "home insurance Florida", "cost of living Florida"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 Thinking Process:

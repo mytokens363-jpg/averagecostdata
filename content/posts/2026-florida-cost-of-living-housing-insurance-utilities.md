@@ -6,6 +6,7 @@ description: "Florida's 2026 financial outlook: rising housing, insurance, and u
 slug: "2026-florida-cost-of-living-housing-insurance-utilities"
 tags: ["Florida cost of living", "real estate Florida", "home insurance Florida", "hurricane resilience costs", "relocation planning"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 ## The 2026 Florida Financial Landscape: What Your Wallet Really Faces

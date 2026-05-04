@@ -6,6 +6,7 @@ description: "A practical breakdown of Florida homebuying costs—including taxe
 slug: "florida-home-costs-real-estate-guide"
 tags: ["Florida real estate", "homebuying costs", "property insurance"]
 schema: "Article"
+robotsNoIndex: true
 ---
 
 # Navigating Florida Home Costs and Real Estate: A Comprehensive Guide
